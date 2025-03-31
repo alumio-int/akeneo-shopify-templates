@@ -1,0 +1,9 @@
+{
+ "name": "Akeneo to Shopify – Category Sync",
+ "description": "Sync categories data from Akeneo into Shopify colections using the Akeneo Rest API and Shopify graphQL.",
+ "source_system": "Akeneo",
+ "target_system": "Shopify",
+ "tags": ["category", "sync", "akeneo", "shopify","colllection"],
+ "version": "1.0.0",
+ "alumio_version": "3.82.0-RC1"
+}
