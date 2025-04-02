@@ -1,0 +1,10 @@
+[ 
+  {
+   "path": "akeneo-to-alumio-product-import",
+   "meta": "akeneo-to-alumio-product-import/meta.json"
+ },
+ {
+   "path": "akeneo-to-shopify-category-sync",
+   "meta": "akeneo-to-shopify-category-sync/meta.json"
+ }
+]
