@@ -1,0 +1,9 @@
+{
+ "name": "Alumio to Shopify – Full product Sync",
+ "description": "Sync full product data from Alumio storage into Shopify product & variants using the Shopify graphQL API.",
+ "source_system": "Alumio",
+ "target_system": "Shopify",
+ "tags": ["product", "sync", "akeneo", "shopify","variants", "publish"],
+ "version": "1.0.0",
+ "alumio_version": "3.82.0-RC1"
+}
