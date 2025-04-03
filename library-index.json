@@ -6,5 +6,9 @@
  {
    "path": "akeneo-to-shopify-category-sync",
    "meta": "akeneo-to-shopify-category-sync/meta.json"
+ },
+ {
+   "path": "alumio-to-shopify-full-product-sync",
+   "meta": "alumio-to-shopify-full-product-sync/meta.json"
  }
 ]
