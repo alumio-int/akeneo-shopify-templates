@@ -4,7 +4,7 @@ Sync categories data from Akeneo into Shopify colections using the Akeneo Rest A
 
 This will fetch the data from Akeneo looking like this
 
-![image](https://github.com/user-attachments/assets/99ec9400-f9a8-4655-ac88-dbd71e180c87)
+![image](https://github.com/user-attachments/assets/449aa4cf-c829-4052-bd54-e5e39dce63f6)
 
 And will further transform into Alumio Base Categories like this
 
