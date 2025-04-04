@@ -6,7 +6,7 @@ This will fetch the data from Akeneo looking like this
 
 ![image](https://github.com/user-attachments/assets/67c75de8-52d2-4966-9201-3bf31b8176e4)
 
-And will further transform into Alumio Base Categories like this
+And will further transform into Alumio Base Category like this
 
 ![image](https://github.com/user-attachments/assets/eea841d2-e7e5-445a-8615-ec75f763504d)
 
