@@ -1,4 +1,4 @@
-# akeneo-shopify-templates
+# Akeneo to Shopify templates for Alumio
 
 ## Description
 
