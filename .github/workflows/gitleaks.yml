@@ -23,3 +23,4 @@ jobs:
           args: "--verbose --redact --config=.gitleaks.toml"
         env:
           GITLEAKS_LICENSE: ${{ secrets.GITLEAK_LICENSE }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
